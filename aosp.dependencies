@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "packages_apps_Playground",
+    "target_path": "packages/apps/Playground",
+    "branch": "ten",
+    "remote": "pixel-gitlab"
+  }
+]
